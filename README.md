@@ -5,6 +5,9 @@ Requirements
 Make sure you have the following dependencies installed:
 
 Python 3.x
+
 pandas
+
 scikit-learn
+
 numpy
